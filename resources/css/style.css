@@ -1,3 +1,13 @@
-.header {
-  font-family: Verdana;
+body {
+  background-color: black;
+  text-align: center
+}
+
+
+.places {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
 }
